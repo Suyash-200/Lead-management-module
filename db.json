@@ -1,0 +1,28 @@
+{
+  "leads": [
+    {
+      "id": "1",
+      "firstName": "Jay",
+      "lastName": "Sharma",
+      "email": "jaysharma@gmail.com",
+      "phone": "9999999999",
+      "status": "NEW"
+    },
+    {
+      "id": "1757054839296365",
+      "firstName": "Suyash",
+      "lastName": "Srivastava",
+      "email": "suyashsrivastava200@gmail.com",
+      "phone": "6306091214",
+      "status": "QUALIFIED"
+    },
+    {
+      "id": "1757054991529396",
+      "firstName": "himanshi",
+      "lastName": "Goel",
+      "email": "Demo200@gmail.com",
+      "phone": "8986342612",
+      "status": "CONTACTED"
+    }
+  ]
+}
